@@ -1,0 +1,16 @@
+#langchain
+langchain
+langchain-openai
+streamlit
+openai
+tiktoken
+python-dotenv
+unstructured
+langchain-pinecone
+pypdf
+sentence_transformers
+langchain-huggingface
+langchain-google-genai
+langchain-community
+langchain-core
+
